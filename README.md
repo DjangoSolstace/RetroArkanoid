@@ -1,2 +1,2 @@
 # RetroArkanoid
-C# retro style brick breaker
+C# retro style brick breaker made in Unity
